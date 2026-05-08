@@ -63,6 +63,13 @@ Here are some screenshots of the system in action:
 - **Phishing Detection**  
   ![Phishing Detection](Images/PhishingDetection.png)
 
+
+---
+
+- **Email Alert**  
+  ![Email Alert](Images/EmailAlert.jpeg)
+
+
 ---
 
 - **ML Analytics**  
