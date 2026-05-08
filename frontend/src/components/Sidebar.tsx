@@ -9,7 +9,7 @@ interface SidebarProps {
 const Sidebar = ({ items, authenticated, onLogout }: SidebarProps) => {
   return (
     <aside className="sidebar">
-      <h2>Cyber Sentinel</h2>
+      <h2>Phishing System</h2>
       {items.map((item) => (
         <NavLink
           key={item.path}
