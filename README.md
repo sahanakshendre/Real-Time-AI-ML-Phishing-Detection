@@ -11,7 +11,7 @@ Developed as part of an **AI/ML internship team project**, this system demonstra
 
 ## 🗂 Project Structure
 
----
+```bash
 
 AIML PHISHING_PROJECT/
 │
@@ -41,6 +41,8 @@ AIML PHISHING_PROJECT/
 └── README.md               # Project documentation
 
 
+```
+
 ---
 
 
@@ -51,27 +53,40 @@ Here are some screenshots of the system in action:
 - **Dashboard**  
   ![Dashboard](Images/Dashboard.png)
 
+---
+
 - **Feature Analysis**  
   ![Feature Analysis](Images/FeatureAnalysis.png)
+
+---
 
 - **Phishing Detection**  
   ![Phishing Detection](Images/PhishingDetection.png)
 
+---
+
 - **ML Analytics**  
   ![ML Analytics](Images/ML_Analytics.png)
+
+---
 
 - **Prevention Page**  
   ![Prevention](Images/Prevention.png)
 
+---
+
 - **Settings Page**  
   ![Settings](Images/Settings.png)
+
+---
 
 - **Statistics Page**  
   ![Statistics](Images/Statistics.png)
 
+---
+
 - **History Page**  
   ![History](Images/History.png)
-
 
 
 ---
@@ -89,7 +104,6 @@ Here are some screenshots of the system in action:
   - Admin panel for managing alerts
   - Prevention strategies and visualization
 
----
 
 ---
 
@@ -119,7 +133,6 @@ npm install
 npm run dev
 
 ```
----
 
 ---
 ### 📊 Tech Stack
@@ -144,7 +157,7 @@ Backend serves predictions via API (app.py).
 
 Frontend dashboard displays alerts, analytics, and prevention strategies.
 
----
+
 ---
 
 ### 🛡️ Future Scope
@@ -174,11 +187,12 @@ Member 4: SUPRIYA NILAJKAR
 This project is licensed under the MIT License.
 
 
----
+```bash
 
 ✨ This version highlights that it’s a **team effort**, with clear roles for each member. You can fill in the names and responsibilities to match your actual contributions.  
 
 Would you like me to also add a **“Results & Evaluation” section** (with placeholders for accuracy, precision, recall, F1-score) so your team can showcase the model’s performance metrics in the README? That would make it look even stronger for internship or portfolio use.
 
+```
 
 
