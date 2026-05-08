@@ -67,7 +67,7 @@ Here are some screenshots of the system in action:
 ---
 
 - **Email Alert**  
-  <img src="Images/EmailAlert.jpeg" alt="Email Alert" width="600" height="400"/>
+  <img src="Images/EmailAlert.jpeg" alt="Email Alert" width="800" height="500"/>
 
 
 ---
