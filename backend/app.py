@@ -52,7 +52,7 @@ def analyze_url():
     print(f"  URL: {url}")
     print(f"  Recipient Email: {email}")
     print(f"  Sender Email: {sender_email}")
-    print(f"  Has Password: {'Yes' if sender_password else 'No'}")
+    print(f"  correct Password: {'Yes' if sender_password else 'No'}")
     
     if not url:
         return jsonify({"error": "URL is required."}), 400
